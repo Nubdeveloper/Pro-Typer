@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557782909165",
+    "project_id": "typing-master-522e0",
+    "storage_bucket": "typing-master-522e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557782909165:android:83db53db6d0b6968df4ce4",
+        "android_client_info": {
+          "package_name": "com.samarthshukla.protyper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557782909165-0dl7igqi3hg0k5iq1tihmld6g57st2nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ9D-cCTeCN4xHRtgCElRBq0X25ruiPp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557782909165-0dl7igqi3hg0k5iq1tihmld6g57st2nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

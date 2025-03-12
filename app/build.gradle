@@ -1,0 +1,59 @@
+plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services'
+}
+
+android {
+    namespace 'com.app.typingmaster'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.samarthshukla.protyper"
+        minSdk 24
+        targetSdk 34
+        versionCode 1
+        versionName "1.3"
+
+        vectorDrawables {
+            useSupportLibrary true
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false  // Disable minify in debug for now
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+
+    buildFeatures {
+        viewBinding false  // If not using ViewBinding, this is fine.
+    }
+}
+
+dependencies {
+    // Use the stable version of Material Components for XML-based UI
+    implementation 'com.google.android.material:material:1.13.0-alpha10'  // Correct stable version for XML UI
+
+    // Other dependencies
+    implementation 'androidx.constraintlayout:constraintlayout:2.2.0'
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation ('com.google.android.gms:play-services-ads:23.6.0')
+   implementation 'com.google.firebase:firebase-analytics:22.2.0'
+    implementation 'com.google.code.gson:gson:2.10.1'
+    implementation 'androidx.recyclerview:recyclerview:1.3.2'
+   implementation 'androidx.browser:browser:1.5.0'
+
+    // Exclude problematic dependencies for SDK 33
+    implementation('androidx.credentials:credentials:1.2.0-rc01') {
+        exclude group: 'androidx.credentials', module: 'credentials'
+    }
+    implementation('androidx.credentials:credentials-play-services-auth:1.2.0-rc01') {
+        exclude group: 'androidx.credentials', module: 'credentials-play-services-auth'
+    }
+}
