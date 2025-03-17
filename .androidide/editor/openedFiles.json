@@ -1,0 +1,140 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/Pro-Typer/app/src/main/java/com/dev/typingmaster/HistoryActivity.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/Pro-Typer/app/src/main/java/com/dev/typingmaster/HistoryAdapter.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/Pro-Typer/app/src/main/java/com/dev/typingmaster/HistoryManager.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/Pro-Typer/app/src/main/java/com/dev/typingmaster/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 34,
+          "index": 34,
+          "line": 0
+        },
+        "start": {
+          "column": 34,
+          "index": 34,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/Pro-Typer/app/src/main/java/com/dev/typingmaster/MediumModeActivity.java",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/Pro-Typer/app/src/main/java/com/dev/typingmaster/TypingActivity.java",
+      "selection": {
+        "end": {
+          "column": 34,
+          "index": 34,
+          "line": 0
+        },
+        "start": {
+          "column": 34,
+          "index": 34,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/Pro-Typer/app/src/main/java/com/dev/typingmaster/WordLoader.java",
+      "selection": {
+        "end": {
+          "column": 34,
+          "index": 34,
+          "line": 0
+        },
+        "start": {
+          "column": 34,
+          "index": 34,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/Pro-Typer/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/Pro-Typer/build.gradle",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/Pro-Typer/build.gradle"
+}

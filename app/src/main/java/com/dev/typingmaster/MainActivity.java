@@ -1,4 +1,4 @@
-package com.app.typingmaster;
+package com.samarthshukla.protyper;
 
 import android.app.AlertDialog;
 import android.content.BroadcastReceiver;

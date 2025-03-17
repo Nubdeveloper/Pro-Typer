@@ -115,10 +115,8 @@
                          android:fontFamily="@font/difficulty"
                          app:cornerRadius="50dp"
                          app:elevation="8dp"
-                         android:textColor="?attr/colorOnSurface"
-                        app:strokeColor="?attr/colorOnSecondaryContainer"
-                        app:strokeWidth="2dp"
-                         style="@style/Widget.Material3.Button.TonalButton"
+                         android:textColor="?attr/colorSurface"
+                         style="@style/Widget.Material3.Button"
                          android:id="@+id/menuButton"
                          android:text="Menu" />
 
@@ -129,10 +127,8 @@
                          android:fontFamily="@font/difficulty"
                          app:cornerRadius="50dp"
                          app:elevation="8dp"
-                         android:textColor="?attr/colorOnSurface"
-                       app:strokeColor="?attr/colorOnSecondaryContainer"
-                        app:strokeWidth="2dp"
-                         style="@style/Widget.Material3.Button.TonalButton"
+                         android:textColor="?attr/colorSurface"
+                         style="@style/Widget.Material3.Button"
                          android:layout_marginStart="32dp"
                          android:id="@+id/retryButton"
                          android:text="Retry" />

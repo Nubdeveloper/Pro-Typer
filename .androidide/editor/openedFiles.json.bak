@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/Pro-Typer/app/src/main/java/com/dev/typingmaster/MediumModeActivity.java",
+      "selection": {
+        "end": {
+          "column": 53,
+          "index": 4818,
+          "line": 113
+        },
+        "start": {
+          "column": 53,
+          "index": 4818,
+          "line": 113
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/Pro-Typer/app/src/main/java/com/dev/typingmaster/MediumModeActivity.java"
+}

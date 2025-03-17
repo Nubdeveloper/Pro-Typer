@@ -1,4 +1,4 @@
-package com.app.typingmaster;
+package com.samarthshukla.protyper;
 
 import android.view.LayoutInflater;
 import android.view.View;
