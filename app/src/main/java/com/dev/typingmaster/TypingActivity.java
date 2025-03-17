@@ -1,4 +1,4 @@
-package com.app.typingmaster;
+package com.samarthshukla.protyper;
 
 import android.os.Bundle;
 import android.widget.Toast;

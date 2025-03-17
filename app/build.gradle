@@ -4,13 +4,13 @@ plugins {
 }
 
 android {
-    namespace 'com.app.typingmaster'
+    namespace 'com.samarthshukla.protyper'
     compileSdk 34
 
     defaultConfig {
         applicationId "com.samarthshukla.protyper"
         minSdk 24
-        targetSdk 34
+        targetSdk 35
         versionCode 1
         versionName "1.3"
 
@@ -38,7 +38,7 @@ android {
 
 dependencies {
     // Use the stable version of Material Components for XML-based UI
-    implementation 'com.google.android.material:material:1.13.0-alpha10'  // Correct stable version for XML UI
+    implementation 'com.google.android.material:material:1.13.0-alpha11'  // Correct stable version for XML UI
 
     // Other dependencies
     implementation 'androidx.constraintlayout:constraintlayout:2.2.0'
